@@ -1,131 +1,3 @@
-Skip to content
-Navigation Menu
-Safeeq-Fazil
-EX-5-prompt-engineering-
-
-Type / to search
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-You’re making changes in a project you don’t have write access to. Submitting a change will write it to a new branch in your fork dharani18p/EX-5-prompt-engineering-, so you can send a pull request.
-EX-5-prompt-engineering-
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
-28
-29
-30
-31
-32
-33
-34
-35
-36
-37
-38
-39
-40
-41
-42
-43
-44
-45
-46
-47
-48
-49
-50
-51
-52
-53
-54
-55
-56
-57
-58
-59
-60
-61
-62
-63
-64
-65
-66
-67
-68
-69
-70
-71
-72
-73
-74
-75
-76
-77
-78
-79
-80
-81
-82
-83
-84
-85
-86
-87
-88
-89
-90
-91
-92
-93
-94
-95
-96
 # EXP 5: Comparative Analysis of Naïve Prompting versus Basic Prompting Using ChatGPT Across Various Test Scenarios
 ## Aim:
 To test how ChatGPT responds to naïve prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios, analyzing the quality, accuracy, and depth of the generated responses.
@@ -222,7 +94,18 @@ For each scenario, create both a naïve and a basic prompt. Ensure each pair of 
 ## Analysis:
 
 - **Quality**: Basic prompts generally led to more detailed and engaging responses, especially for creative or complex tasks.
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Editing EX-5-prompt-engineering-/README.md at main · Safeeq-Fazil/EX-5-prompt-engineering-
+- **Accuracy**: For factual questions, both naïve and basic prompts produced accurate responses, but the basic prompt allowed for more context and completeness.
+- **Depth**: The depth of responses was significantly higher when using basic prompts, particularly in tasks requiring explanation or analysis.
+
+---
+
+## Summary of Findings:
+
+- **Naïve prompts** often result in short, less structured, and more generic responses. While they can be effective for simple tasks, they lack specificity, which limits their depth.
+- **Basic prompts** consistently lead to more accurate, detailed, and contextually rich responses. They are better suited for tasks requiring thoroughness, such as storytelling, factual responses with context, and summaries.
+- ChatGPT performs significantly better with **basic prompts**, particularly in complex or multi-faceted tasks. However, **naïve prompts** still work effectively for straightforward, factual questions.
+
+---
+
+## Conclusion:
+To achieve optimal results with ChatGPT, it’s important to use **clear, specific prompts** for complex tasks. **Naïve prompts** can be useful for simple requests but often fail to provide the level of detail and context necessary for more advanced or creative tasks.
